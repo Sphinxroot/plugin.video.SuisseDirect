@@ -10,8 +10,8 @@
 		<provides>video</provides>
 	</extension>
   <extension point="xbmc.addon.metadata">  
-  <summary lang="en">La Tv De La Sussie En Direct Fr</summary>
-    <description lang="en">Ecoutez Les Stations De La Sussie En Direct FR
+  <summary lang="en">La Tv De La Suisse En Direct Fr</summary>
+    <description lang="en">Ecoutez Les Stations De La Suisse En Direct FR
 	</description>
     <platform>all</platform>
 	<language>en</language>
